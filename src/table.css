@@ -1,0 +1,101 @@
+.table-container{
+    width: 97%;
+    height: 100%;
+    margin:20px auto;
+}
+
+.table-header-container{
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.select-container{
+    width: 200px;
+}
+.select-main-container{
+    display: flex;
+    gap: 20px;
+}
+.right-container{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.mainC{
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        width: 100%;
+        margin-top: 20px;
+}
+.cartcontainer{
+            width: 60%;
+            height: 450px;
+            border: 1px solid green;
+}
+.carttotal{
+          width: 300px;
+          height: 200px;
+          border: 1px solid green;
+          /* gap: 10px; */
+          box-shadow: 50px gray;
+          border-radius: 10px;
+      }
+
+
+.cart-product{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.carttotal1{
+    display: flex;
+    justify-content: space-between;
+}
+.ar2{
+   margin-top: 10px;
+}
+.ar1{
+    margin-top: 20px;
+    width: 90%;
+
+}
+.mbutton{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.button{
+    /* margin-top: 20px; */
+
+}
+
+
+.va1{
+    width: 100%;
+    height: auto;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+}
+.ar2{
+    width: 90%;
+    /* background-color: red; */
+}
+.main{
+    width: 90%;
+    
+    
+    margin: 0px auto;
+}
+.ra{
+    width: 100%;
+    height: auto;
+}
+.rt{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
